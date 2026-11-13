@@ -304,5 +304,5 @@ void loadFromFile(Expense expenses[], int *count) {
 
     fclose(file);
 }
-
+ 
                 
